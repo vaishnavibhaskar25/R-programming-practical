@@ -1,0 +1,8 @@
+install.packages("writexl")
+
+library(writexl)
+
+write_xlsx(
+  sales_data,
+  "sales_data.xlsx"
+)

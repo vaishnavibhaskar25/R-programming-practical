@@ -1,0 +1,31 @@
+"OrderID","City","Category","Product","Price","Quantity","Discount","Revenue"
+1,"Houston","Clothing","Action Figure",271.67,7,0.14,1635.45
+2,"Phoenix","Home","Laptop",122.33,7,0.18,702.17
+3,"Houston","Electronics","Shirt",364.13,6,0.07,2031.85
+4,"Phoenix","Clothing","Lamp",481.44,9,0.22,3379.71
+5,"Houston","Home","Laptop",268.77,2,0.05,510.66
+6,"Phoenix","Clothing","Shirt",103.77,9,0.21,737.8
+7,"Los Angeles","Electronics","Laptop",290.02,1,0.08,266.82
+8,"Phoenix","Clothing","Lamp",384.44,6,0.13,2006.78
+9,"Los Angeles","Clothing","Phone",340.15,7,0.22,1857.22
+10,"Los Angeles","Electronics","Shirt",127.94,3,0.14,330.09
+11,"Houston","Electronics","Laptop",186.01,10,0.1,1674.09
+12,"Chicago","Clothing","Laptop",173.52,6,0.07,968.24
+13,"New York","Home","Shirt",454.35,1,0.06,427.09
+14,"Phoenix","Home","Laptop",115.62,10,0.07,1075.27
+15,"Houston","Clothing","Action Figure",346.86,10,0.17,2878.94
+16,"Chicago","Toys","Laptop",86.01,10,0.21,679.48
+17,"New York","Clothing","Lamp",71.36,1,0.03,69.22
+18,"Los Angeles","Clothing","Laptop",64.57,8,0.16,433.91
+19,"Chicago","Toys","Action Figure",459.9,4,0.26,1361.3
+20,"Houston","Electronics","Lamp",152.99,6,0.21,725.17
+21,"Los Angeles","Clothing","Lamp",445.18,10,0.09,4051.14
+22,"New York","Electronics","Phone",390.98,4,0.03,1517
+23,"Houston","Home","Phone",401.62,8,0.17,2666.76
+24,"Los Angeles","Electronics","Lamp",118.72,9,0.25,801.36
+25,"New York","Clothing","Phone",43.13,8,0.16,289.83
+26,"Chicago","Toys","Shirt",38.63,3,0.21,91.55
+27,"Chicago","Clothing","Action Figure",156.6,3,0.15,399.33
+28,"Phoenix","Home","Shirt",187.43,8,0.11,1334.5
+29,"Houston","Toys","Action Figure",373.98,5,0.29,1327.63
+30,"Los Angeles","Home","Laptop",140.8,7,0.28,709.63
